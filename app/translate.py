@@ -2,8 +2,8 @@ import os, requests, uuid, json
 
 # Не забудьте заменить своим ключом значение subscription_key!
 
-subscription_key = 'YOUR_TRANSLATOR_TEXT_SUBSCRIPTION_KEY'
-location = 'YOUR_TRANSLATOR_RESOURCE_LOCATION'
+subscription_key = '0094ee58c8b44a5795ad67857e4431d1'
+location = 'westeurope'
 # Не забудьте заменить своим местоположением значение location!
 
 # Наш маршрут Flask поставит два аргумента: text_input и language_output.
